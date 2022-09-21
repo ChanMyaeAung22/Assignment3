@@ -1,2 +1,2 @@
-# Assignment3
+# NCC Assignments
 For NCC Exam
